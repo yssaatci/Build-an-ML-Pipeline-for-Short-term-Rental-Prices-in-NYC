@@ -2,7 +2,7 @@
 
 Link to this very github per Udacity's very recursive instruction loop: 
 
-[https://github.com/lewi0332/build-ml-pipeline-for-short-term-rental-prices](https://github.com/yssaatci/Build-an-ML-Pipeline-for-Short-term-Rental-Prices-in-NYC)
+[https://github.com/yssaatci/Build-an-ML-Pipeline-for-Short-term-Rental-Prices-in-NYC](https://github.com/yssaatci/Build-an-ML-Pipeline-for-Short-term-Rental-Prices-in-NYC)
 
 Link to the Weights and Biases Project tracking the model:
 
