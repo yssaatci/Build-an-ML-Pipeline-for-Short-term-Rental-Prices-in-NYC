@@ -6,7 +6,7 @@ Link to this very github per Udacity's very recursive instruction loop:
 
 Link to the Weights and Biases Project tracking the model:
 
-[https://wandb.ai/derrickjameslewis/nyc_airbnb](https://wandb.ai/derrickjameslewis/nyc_airbnb)
+[https://wandb.ai/yssaatci-/nyc_airbnb](https://wandb.ai/yssaatci-/nyc_airbnb)
 
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
